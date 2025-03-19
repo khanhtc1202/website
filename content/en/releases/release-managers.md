@@ -133,7 +133,7 @@ referred to as Release Manager shadows. They are responsible for:
 - Through the Buddy program, onboarding new contributors and pairing up with
   them on tasks
 
-GitHub Mentions: @kubernetes/release-engineering
+GitHub Mentions: [@kubernetes/release-engineering](https://github.com/orgs/kubernetes/teams/release-engineering)
 
 - Arnaud Meukam ([@ameukam](https://github.com/ameukam))
 - Jim Angel ([@jimangel](https://github.com/jimangel))
