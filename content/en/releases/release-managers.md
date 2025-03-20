@@ -85,7 +85,7 @@ set forth in the [Security Release Process][security-release-process].
 
 GitHub Access Controls: [@kubernetes/release-managers](https://github.com/orgs/kubernetes/teams/release-managers)
 
-GitHub Mentions: [@kubernetes/release-engineering](https://github.com/orgs/kubernetes/teams/release-engineering)
+GitHub Mentions: @kubernetes/release-engineering
 
 - Adolfo García Veytia ([@puerco](https://github.com/puerco))
 - Cici Huang ([@cici37](https://github.com/cici37))
@@ -133,7 +133,7 @@ referred to as Release Manager shadows. They are responsible for:
 - Through the Buddy program, onboarding new contributors and pairing up with
   them on tasks
 
-GitHub Mentions: [@kubernetes/release-engineering](https://github.com/orgs/kubernetes/teams/release-engineering)
+GitHub Mentions: @kubernetes/release-engineering
 
 - Arnaud Meukam ([@ameukam](https://github.com/ameukam))
 - Jim Angel ([@jimangel](https://github.com/jimangel))
